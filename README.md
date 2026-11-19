@@ -1,1 +1,1 @@
-![same same but different](./wow.gif)
+![same same but different](./omg-this-look-cool.gif)
